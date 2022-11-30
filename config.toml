@@ -1,5 +1,5 @@
-baseURL = "https://anisshaikh10.github.io/Hugo_Web/"
-#baseURL = "https://example.com/"
+#baseURL = "https://anisshaikh10.github.io/Hugo_Web/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "ANIS AHMED"
 theme = "personal-web"
