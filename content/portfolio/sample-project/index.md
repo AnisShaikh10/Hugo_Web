@@ -1,13 +1,13 @@
 ---
-title: Sample project
-description: This is the description of our sample project
+title: WEP Project
+description: This is the description of our WEP project
 date: "2019-05-02T19:47:09+02:00"
-jobDate: 2019
+jobDate: 2021
 work: [design, architecture]
-techs: [javascript, D3]
-designs: [Photoshop]
-thumbnail: sample-project/sample.jpg
-projectUrl: https://www.sampleorganization.org
+techs: [CSharp, MVC]
+designs: [HTML]
+thumbnail: sample-project/mapicon.png
+projectUrl: http://www.wep.somee.com/
 testimonial:
   name: John Doe
   role: CEO @Example
@@ -15,11 +15,6 @@ testimonial:
   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+It is a platform that allows people to register a complaint regarding the issue faced by them, in their daily life. The user can register complaints on three major issues: Potholes/BadRoad, Water, and Electricity in their locality. With the help of this platform, the data given by users can be used to notify the respective department regarding problems faced by people in a particular area, so that action can be taken to solve that problem as soon as possible.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If the user has filed a complaint, the location of a particular area will be marked on the map to show where the problem occurs, initially, the color of the marking will be a lighter color and as the days go by the color will turn darker shade to show the severity of the problem.
