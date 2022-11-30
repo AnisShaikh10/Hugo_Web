@@ -1,4 +1,4 @@
-baseURL = "https://anisshaikh10.github.io/Hugo_Web/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Edna West"
 theme = "personal-web"
