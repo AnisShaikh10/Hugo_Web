@@ -1,7 +1,6 @@
 ---
 title: HOME
-description: Welcome to WEP project
-images: ["/images/sample.jpg"]
+description: Welcome to WEP Project
 images: ["/images/mapicon.png"]
 ---
 

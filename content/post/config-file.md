@@ -14,9 +14,9 @@ You can use it as a base for your website.
 ```TOML
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Edna West"
+title = "ANIS AHMED"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© ANIS AHMED"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -24,8 +24,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Hi, I'm ANIS :wave:"
+  sub = "I'm a Web Developer"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -124,8 +124,8 @@ The sidebar header is defined within the `params.intro` section. The `main` bein
 
 ```TOML
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Hi, I'm ANIS :wave:"
+  sub = "I'm a Web Developer"
 ```
 
 You can also customize the params with the  `params.sidebar` parameters. The `config.toml` file contains the default values as examples.

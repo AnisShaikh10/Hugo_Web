@@ -1,8 +1,9 @@
+#baseURL = "https://anisshaikh10.github.io/Hugo_Web/"
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Edna West"
+title = "ANIS AHMED"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© ANIS AHMED"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -42,7 +43,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "" # - default "/images/Anis.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
