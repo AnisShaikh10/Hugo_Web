@@ -57,7 +57,7 @@ pygmentsCodeFences=true
 
 [params.contact]
   email = "mca.2001@unigoa.ac.in"
-  text= "contact" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Contact Me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
